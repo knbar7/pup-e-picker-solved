@@ -8,13 +8,6 @@
       "id": 6
     },
     {
-      "name": "Jalon",
-      "image": "/src/assets/blue-heeler.png",
-      "description": "Innovative Money Tuna Palladium Handmade Tricycle versus black",
-      "isFavorite": false,
-      "id": 7
-    },
-    {
       "name": "Juanita",
       "image": "/src/assets/dalmation.png",
       "description": "redefine online feed bus unaccountably Hybrid Turnpike",
@@ -25,7 +18,7 @@
       "name": "Laurine",
       "image": "/src/assets/corgi.png",
       "description": "Sausages pfft Rolls navigating male",
-      "isFavorite": true,
+      "isFavorite": false,
       "id": 18
     },
     {
@@ -34,6 +27,13 @@
       "isFavorite": false,
       "image": "/src/assets/chihuahua.avif",
       "id": 20
+    },
+    {
+      "name": "The Dog I Added",
+      "description": "This is the dog I added.",
+      "isFavorite": true,
+      "image": "/src/assets/boxer.jpeg",
+      "id": 21
     }
   ]
 }
